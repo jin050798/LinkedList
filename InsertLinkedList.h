@@ -1,3 +1,5 @@
+#pragma once
+
 typedef struct ListNode{
 	char data[4];
 	struct ListNode* link;
