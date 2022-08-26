@@ -1,0 +1,1 @@
+gcc -DDEBUG -DC_FLAGS -static -Wl,--gc-sections -DDEBUG -DLINKER_FLAGS CMakeFiles/InsertLinkedList-0.1.out.dir/ex4_1.c.o CMakeFiles/InsertLinkedList-0.1.out.dir/InsertLinkedList.c.o -o Debug/InsertLinkedList-0.1.out  -lm 
